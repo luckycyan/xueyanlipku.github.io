@@ -28,7 +28,7 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=4
 # Presentations (AGU excluded)
  "Moment tensor inversion for deep earthquakes at the Tonga-Kermadec subduction zone using 3-D Green’s functions", SCEC 2020 Annual Meeting, USA, Sept. 2020 [pdf](https://github.com/xueyanlipku/pdfs/blob/master/SCEC2020_xueyan_v3.pdf)
 
- "Seismic anisotropy beneath the Tonga Subduction Zone based on adjoint tomography", Seismology Student Workshop at Lamont-Doherty Earth Observatory, USA, (Cancelled)
+ "Seismic anisotropy beneath the Tonga Subduction Zone based on adjoint tomography", Seismology Student Workshop at Lamont-Doherty Earth Observatory, USA, (Cancelled due to COVID-19 pandemic)
  
  "Seismic anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
 
